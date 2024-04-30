@@ -1,0 +1,17 @@
+what is a database?
+a collection of data
+a method of manipulating that data
+Database Management System
+Diagram Time
+Most common Databases
+PostgreSQL
+MySQL
+Oracle Database
+SQLite
+SQL
+Structured Query Language
+is the language we use to talk to our databases
+Find all users
+Find all users who are 18 or older
+select * from users where age >= 18;
+
