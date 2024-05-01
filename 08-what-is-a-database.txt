@@ -14,4 +14,6 @@ is the language we use to talk to our databases
 Find all users
 Find all users who are 18 or older
 select * from users where age >= 18;
+# 10 Installation
+
 
