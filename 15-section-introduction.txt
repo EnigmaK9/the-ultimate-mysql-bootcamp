@@ -1,0 +1,17 @@
+16 showing databases
+creating databases
+## Database server
+silos of data
+tables don't have to do anything with one another
+dog walker database
+- dogs
+- users
+- payments
+soap shop database
+ - soaps
+ - users
+ - payments
+ we have multiple databases within a mysql server
+ 
+ show databases; -- this command shows databases
+ 
