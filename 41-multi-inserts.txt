@@ -1,0 +1,11 @@
+# Multi inserts
+-- single insert ( switch order of name and age)
+insert into cats(age, name)
+values (2,'Beth');
+
+-- multiple insert
+insert into cats (name, age)
+values
+    ('Meatball',5),
+    ('Turkey',1),
+    ('Potato Face',15);
