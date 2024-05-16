@@ -1,0 +1,4 @@
+insert into cats(name,age)
+values ('Jetson',7);
+insert into cats(name, age)
+values ("Jetson", 7);

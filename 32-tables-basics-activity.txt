@@ -1,0 +1,1 @@
+create table pastries (name varchar(50), quantity int);
