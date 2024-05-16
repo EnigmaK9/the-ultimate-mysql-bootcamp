@@ -1,0 +1,4 @@
+ create table tweets;
+ username varchar(100),
+ tweet varchar(140),
+ favorites int

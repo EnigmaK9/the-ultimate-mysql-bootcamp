@@ -1,0 +1,42 @@
+# Data types: the basics
+name varchar
+breed varchar
+age int
+
+## numeric types
+int
+smallint
+tinyint
+mediumint
+bigint
+decimal
+numeric
+float
+double
+bit
+## string types
+char
+varchar
+binary
+varbinary
+blob
+tinyblob
+mediumblob
+longblob
+text
+tinytext
+mediumtext
+longtext
+enum
+
+int
+a whole number
+with a max signed value of 2147583657
+12 is a valid int
+
+varchar
+a variable-length string
+coffee!!
+aAbbb akljdd
+-9999
+
